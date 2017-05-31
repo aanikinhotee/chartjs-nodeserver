@@ -1,0 +1,10 @@
+{
+  "name": "testChartJS",
+  "version": "0.0.1",
+  "dependencies": {
+    "canvas": "^1.6.5",
+    "chart.js": "^2.5.0",
+    "chartjs-node": "^1.4.1",
+    "express": "^4.15.3"
+  }
+}
