@@ -1,3 +1,8 @@
+# description
+
+Project created for generating PNG charts using chart.js library. Can be used as backend service to get PNG files.
+
+# installation
 
 Install npm dependencies
 
